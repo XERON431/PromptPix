@@ -1,8 +1,8 @@
-#DALLE-Clone-Image-Generator
-Welcome to the future of image generation! The DALLE-Clone-Image-Generator is an ultra-sophisticated web application that leverages the incredible power of OpenAI's API to transform mere text descriptions into stunning, lifelike images and artworks that will leave you spellbound. Be ready to witness the convergence of cutting-edge technology and artistic expression at its finest.
+# DALLE-Clone-Image-Generator
+## Welcome to the future of image generation! The DALLE-Clone-Image-Generator is an ultra-sophisticated web application that leverages the incredible power of OpenAI's API to transform mere text descriptions into stunning, lifelike images and artworks that will leave you spellbound. Be ready to witness the convergence of cutting-edge technology and artistic expression at its finest.
 
-Features
-Unparalleled Image Generation: Experience the marvel of turning ordinary text into extraordinary visual masterpieces.
+### Features
+#### Unparalleled Image Generation: Experience the marvel of turning ordinary text into extraordinary visual masterpieces.
 Instant Downloading: Grab your created images in a snap and save them for posterity.
 Community Showcase: Show off your creativity in our vibrant Community Showcase, and be amazed by the artistic ingenuity of fellow users.
 Blazing-Fast Performance: Thanks to Cloudinary's advanced image management capabilities, enjoy lightning-fast image loading and a seamless user experience.
