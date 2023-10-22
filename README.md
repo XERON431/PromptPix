@@ -3,9 +3,13 @@ A web application that utilizes the OpenAI API to transform text descriptions in
 
 ## Features
 Image generation based on text descriptions
+
 Downloading generated images
+
 Community Showcase for sharing generated images
+
 Smooth user experience with Cloudinary for speedy image loading
+
 ## Technologies Used
 MERN stack (MongoDB, Express.js, React.js, Node.js)
 OpenAI API
