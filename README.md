@@ -1,4 +1,4 @@
-DALLE-Clone-Image-Generator
+#DALLE-Clone-Image-Generator
 Welcome to the future of image generation! The DALLE-Clone-Image-Generator is an ultra-sophisticated web application that leverages the incredible power of OpenAI's API to transform mere text descriptions into stunning, lifelike images and artworks that will leave you spellbound. Be ready to witness the convergence of cutting-edge technology and artistic expression at its finest.
 
 Features
