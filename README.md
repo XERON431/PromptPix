@@ -43,18 +43,6 @@ git clone [https://github.com/XERON431/DALL-E.git]
 
 - Cloudinary
 
-## Usage
-
-- Sign up or log in to the application
-
-- Input a text description
-
-- Generate the image
- 
-- Download the generated image
-
-- Share the image in the Community Showcase
-
 ## Authors
 [Siddhant Goyal](https://www.linkedin.com/in/siddhantgoyal2001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
