@@ -17,23 +17,23 @@ npm run dev (frontend)
 
 npm start (backend)
 
-### Glimpse :
+## Glimpse :
 
 
-## Home Page
+### Home Page
 
 
 ![image](https://github.com/XERON431/DALL-E/assets/103522839/de9b15c6-0cb9-4950-a2d1-d3d492aaed7e)
 
-## Create Page
+### Create Page
 ![image](https://github.com/XERON431/DALL-E/assets/103522839/ca4bf880-aece-4008-9211-9ecf0ba0a76d)
 
 
 
 
 ## Authors
-
-- [Manish panwar](https://www.linkedin.com/in/manishpanwar26/)
+-[Siddhant Goyal](https://www.linkedin.com/in/siddhantgoyal2001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- https://www.linkedin.com/in/siddhantgoyal2001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 # DALLE-Clone-Image-Generator
 A web application that utilizes the OpenAI API to transform text descriptions into lifelike images and artworks. Users can generate, download, and share their generated images in the Community Showcase section.
 
