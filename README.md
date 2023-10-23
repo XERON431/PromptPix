@@ -12,6 +12,7 @@ git clone https://github.com/panwar-26/movix.git
 ### To run the application, run below commands 
 
 npm install
+
 npm run dev
 
 
