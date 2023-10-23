@@ -94,10 +94,15 @@ Copy code
 npm run dev
 ## Usage
 Sign up or log in to the application
+
 Input a text description
+
 Generate the image
+
 Download the generated image
+
 Share the image in the Community Showcase
+
 ## Contributing
 We welcome contributions from the community. To contribute to the project, follow these steps:
 
