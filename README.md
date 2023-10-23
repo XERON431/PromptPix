@@ -24,7 +24,8 @@ git clone [https://github.com/XERON431/DALL-E.git]
 ![image](https://github.com/XERON431/DALL-E/assets/103522839/de9b15c6-0cb9-4950-a2d1-d3d492aaed7e)
 
 ### Create Page
-![image](https://github.com/XERON431/DALL-E/assets/103522839/ca4bf880-aece-4008-9211-9ecf0ba0a76d)
+![image](https://github.com/XERON431/DALL-E/assets/103522839/a57de2b4-2bb6-46f0-8df7-e1bade70df5a)
+
 
 ## Features
 - Image generation based on text descriptions
