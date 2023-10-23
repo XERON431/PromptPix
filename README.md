@@ -22,7 +22,8 @@ npm start
 
 ## Home Page
 
-![App Screenshot](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.51.10.jpg?raw=true)
+
+![image](https://github.com/XERON431/DALL-E/assets/103522839/de9b15c6-0cb9-4950-a2d1-d3d492aaed7e)
 
 
 
