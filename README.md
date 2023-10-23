@@ -6,16 +6,16 @@
 ### How to Run Locally
 Run the below command to clone the repo locally
 
-git clone https://github.com/panwar-26/movix.git
+git clone [https://github.com/panwar-26/movix.git](https://github.com/XERON431/DALL-E.git)
  
 
 ### To run the application, run below commands 
 
 npm install
 
-npm run dev
+npm run dev (frontend)
 
-
+npm start
 
 ### Glimpse :
 
