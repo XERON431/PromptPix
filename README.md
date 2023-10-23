@@ -1,6 +1,6 @@
-# movix-app
+# PROMPTPIX
 
-# Website - [PromptPix](https://imagegenapp.netlify.app/)
+# [Website Preview](https://imagegenapp.netlify.app/)
 
 
 ### How to Run Locally
@@ -15,7 +15,7 @@ npm install
 
 npm run dev (frontend)
 
-npm start
+npm start (backend)
 
 ### Glimpse :
 
@@ -25,30 +25,8 @@ npm start
 
 ![image](https://github.com/XERON431/DALL-E/assets/103522839/de9b15c6-0cb9-4950-a2d1-d3d492aaed7e)
 
-
-
-
-##  Genres / Categories / sort
-
-#### One can sort according to genre as well as popularity , release date ,etc.
-![App Screenshot](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.02.04.jpg?raw=true)
-
-![App Screenshot](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.02.21.jpg?raw=true)
-
-
-## Movie Details
-
-#### All sorts of info regarding movie such as cast , ratings , official videos .
-![App Screenshot](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.00.53.jpg?raw=true).
-
-![App Screenshot](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.00.17.jpg?raw=true)
-
-## Trailer 
-
-####  Trailer of movies  can be played 
-
-![App Screenshot](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.01.33.jpg?raw=true)
-
+## Create Page
+![image](https://github.com/XERON431/DALL-E/assets/103522839/ca4bf880-aece-4008-9211-9ecf0ba0a76d)
 
 
 
