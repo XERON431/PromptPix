@@ -1,5 +1,5 @@
 # PROMPTPIX
-
+A web application that utilizes the OpenAI API to transform text descriptions into lifelike images and artworks. Users can generate, download, and share their generated images in the Community Showcase section.
 # [Website Preview](https://imagegenapp.netlify.app/)
 
 
@@ -28,12 +28,32 @@ npm start (backend)
 ### Create Page
 ![image](https://github.com/XERON431/DALL-E/assets/103522839/ca4bf880-aece-4008-9211-9ecf0ba0a76d)
 
+## Features
+Image generation based on text descriptions
 
+Downloading generated images
 
+Community Showcase for sharing generated images
+
+Smooth user experience with Cloudinary for speedy image loading
+
+## Technologies Used
+
+MERN stack (MongoDB, Express.js, React.js, Node.js)
+
+OpenAI API
+
+Cloudinary
+
+## Usage
+Sign up or log in to the application
+Input a text description
+Generate the image
+Download the generated image
+Share the image in the Community Showcase
 
 ## Authors
--[Siddhant Goyal](https://www.linkedin.com/in/siddhantgoyal2001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- https://www.linkedin.com/in/siddhantgoyal2001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+[Siddhant Goyal](https://www.linkedin.com/in/siddhantgoyal2001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 # DALLE-Clone-Image-Generator
 A web application that utilizes the OpenAI API to transform text descriptions into lifelike images and artworks. Users can generate, download, and share their generated images in the Community Showcase section.
 
@@ -47,8 +67,16 @@ Community Showcase for sharing generated images
 Smooth user experience with Cloudinary for speedy image loading
 
 ## Technologies Used
-MERN stack (MongoDB, Express.js, React.js, Node.js)
+MongoDB 
+
+Express.js 
+
+React.js 
+
+Node.js)
+
 OpenAI API
+
 Cloudinary
 ## Installation
 Clone the repository: git clone https://github.com/your-username/DALLE-Clone-Image-Generator.git
